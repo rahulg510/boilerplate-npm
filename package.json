@@ -1,9 +1,9 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "rahul-krishan",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
-	"author": "Rahul-Krishan",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
