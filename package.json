@@ -3,7 +3,7 @@
 	"dependencies": {
 		"express": "^4.14.0"
 	},
-	"author": "Rahul Krishan",
+	"author": "Rahul-Krishan",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
