@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "rahul-krishan",
+  "author": "Rahul-Krishan",
+  "description": "This is a lit project",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -14,5 +15,10 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
+	},
+  "keywords": ["freecodecamp", "firstProject", "learning"],
+  "license": "MINE",
+  "version": "1.0.2"
+  
 }
+
